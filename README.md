@@ -14,4 +14,10 @@ Once dataset was ready, we used one-hot encoding and ELMo for feature extraction
 For any query search performed by the customer, we processed the user-input by removing punctuations and tokenizing the query. The Deep Learning model then helps identify the main category, followed by another nested model that pinpoints the sub-class. This result is then used to locate all products within the sub-class in the database, and the retrieved results are then displayed along with product name, manufacturer and cost.  
   
 Demonstration link:  
-https://drive.google.com/file/d/1ulBqgUjdVU5FDOivYddrawOPJSfBTgM6/view?usp=sharing
+https://drive.google.com/file/d/1ulBqgUjdVU5FDOivYddrawOPJSfBTgM6/view?usp=sharing  
+  
+For more project details, please refer "SpareWare.pdf"  
+Datasets and pickled Deep Learning models available at below path:  
+https://drive.google.com/drive/folders/13oQQT2CbmoXXLX9uu0cbvwG2wTCBY4MS?usp=sharing  
+https://drive.google.com/drive/folders/1OMuCGPokC2uv0wJgzeKlv-O84DrqAvN-?usp=sharing  
+https://drive.google.com/drive/folders/1sS1evwT6lOWD3ZFbOc6rr_esfBQIqIDC?usp=sharing
